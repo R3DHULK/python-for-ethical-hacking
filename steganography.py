@@ -146,3 +146,4 @@ try:
 		main()
 except KeyboardInterrupt:
 	print("\n\033[91m [-] Ctrl+C Detected.....Exiting......")
+time.sleep(2)
