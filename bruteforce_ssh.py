@@ -15,6 +15,9 @@ print('''\033[92m
  | || | | | | |  | |/ / / __/ __| || |  / __|_ _ __ _ __| |_____ _ _ 
  | __ | |_| | |__| ' <  \__ \__ \ __ | | (__| '_/ _` / _| / / -_) '_|
  |_||_|\___/|____|_|\_\ |___/___/_||_|  \___|_| \__,_\__|_\_\___|_|  
+ 
+                    coded by R3DHULK
+         Github Page : https://github.com/R3DHULK
 ''')
 
 def is_ssh_open(hostname, username, password):
