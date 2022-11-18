@@ -1,0 +1,7 @@
+requests
+cryptography
+python-nmap
+impacket
+scapy
+rawsocketpy
+pylibnet
