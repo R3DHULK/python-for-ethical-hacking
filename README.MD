@@ -80,7 +80,7 @@ Python can also be used to process text, display numbers or images, solve scient
 ## 07. [DDOS](https://github.com/R3DHULK/HULK)
 ## 08. [Malware In Python](https://github.com/R3DHULK/malware-in-python)
 ## 09. [Image Exif Tool](https://github.com/R3DHULK/exif)
-## 10. [PDF Exifs Remover](https://github.com/R3DHULK/exif)
+## 10. [Image Exifs Remover](https://github.com/R3DHULK/exif)
 ## 11. [PDF Exif Tool](https://github.com/R3DHULK/pdf-exif)
 ## 12. [Fake Mail](https://github.com/R3DHULK/fakemail)
 ## 13. [Keylogger](https://github.com/R3DHULK/keylogger-in-python)
@@ -101,6 +101,7 @@ Python can also be used to process text, display numbers or images, solve scient
 ## 28. [Subdomain Finder](https://github.com/R3DHULK/find-subdomains)
 ## 29. [Wifi DDoS Attack](https://github.com/R3DHULK/target-wifi)
 ## 30. [XSS Vulnerability Scanner](https://github.com/R3DHULK/xss-police)
+## 31. [TCP Scanner](https://github.com/R3DHULK/HulkScanner)
 
 #
 <h1><b> Git Installation : </b></h1>
