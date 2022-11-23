@@ -1,9 +1,9 @@
 <h1><b> Python For Ethical Hacking </h1></b>
-<h2><b><i> All In One Python Scripts To Use In Your Hacking Methodology </h2></b></i><br>
-<img src="https://img.shields.io/badge/Used Python 3.10.5- red"> <img src="https://img.shields.io/badge/Python For Ethical Hacking-orange"> <img src="https://img.shields.io/badge/Download-Now-green"> <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen">
+<h2><b><i><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17FF38&background=000000&width=441&height=58&lines=Python+For+Ethical+Hacking;Ethical+Hacking+Tool+Hub;All+In+One+Py-Scripts+For+Hacking+" alt="Typing SVG" /></h2></b></i><br>
+<img src="https://img.shields.io/badge/Used Python 3.10.5- red"><img src="https://img.shields.io/badge/Python For Ethical Hacking-orange"><img src="https://img.shields.io/badge/Download-Now-green"><img src="https://img.shields.io/badge/Licence-MIT-yellowgreen">
 
 #
-<h2><b><i> 🔴🔴🔴 This Repo Is Still in Undercontruction And Maintenance 🔴🔴🔴</i></h2></b>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=871&color=F70000&width=435&lines=This+Repo+Is+In+Underconstruction" alt="Typing SVG" /></a>
 
 #
 <h2><i><b> 🔴 Also Check out My <a href="https://github.com/R3DHULK/bash-for-ethical-hackers"> Bash For Ethical Hackers</a> Project</h2></i></b>
@@ -102,7 +102,14 @@ Python can also be used to process text, display numbers or images, solve scient
 ## 29. [Wifi DDoS Attack](https://github.com/R3DHULK/target-wifi)
 ## 30. [XSS Vulnerability Scanner](https://github.com/R3DHULK/xss-police)
 ## 31. [TCP Scanner](https://github.com/R3DHULK/HulkScanner)
-
+## 32. [BruteForce Password](https://github.com/R3DHULK/bruteforce-password)
+## 33. [Linux Password Cracker](https://github.com/R3DHULK/linux-pass-cracker)
+## 34. [Bad USB](https://github.com/R3DHULK/bad-usb)
+## 35. [Fake Details Generator](https://github.com/R3DHULK/lets-fake-it)
+## 36. [Password Sniffer](https://github.com/R3DHULK/passwordsniffer)
+## 37. [PwnKit Exploit](https://github.com/R3DHULK/Pwnkit-exploit)
+## 38. [Mac Address Changer](https://github.com/R3DHULK/Mac-Changer)
+## 39. [Anonymity Checker](https://github.com/R3DHULK/am-i-anonymous)
 #
 <h1><b> Git Installation : </b></h1>
 
