@@ -1,7 +1,7 @@
 import dns.resolver
 
 # Set the target domain and record type
-print ('''\033[93m]
+print ('''\033[93m
     **********************************************
     *       Simple DNS Enumeration Tool          *
     *  github page : https://github.com/r3dhulk  *
